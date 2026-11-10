@@ -13,7 +13,7 @@ This project is a drone-assisted environmental monitoring system that automates 
 *  Optical Camera Module & Local Onboard Computing Unit
   
 ## Circuit & Physical Build
-![Circuit/Build Photo](assets/drone_frontview.png)
+![Circuit/Build Photo](drone_image_processing/assets/drone-processing.gif)
 *Virtual CATIA CAD model of the quadcopter chassis, engineered to support a 1.6kg payload while achieving a >2:1 thrust-to-weight ratio for stable optical tracking.*   
 
 ## Software & Libraries
