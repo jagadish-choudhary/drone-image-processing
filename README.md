@@ -1,4 +1,4 @@
-# [Project Name: e.g., Automated IoT Plant Monitor]
+# Drone-Assisted Surface Water Quality Classification Using Image Processing
 
 ![Project Demo](assets/demo.gif)
 *Watch the [full video demonstration here](YOUR_UNLISTED_YOUTUBE_LINK).*
