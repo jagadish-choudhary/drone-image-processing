@@ -1,7 +1,7 @@
 # Drone-Assisted Surface Water Quality Classification Using Image Processing
 
-![Project Demo](assets/demo.gif)
-*Watch the [full video demonstration here](YOUR_UNLISTED_YOUTUBE_LINK).*
+![Project Demo](assets/drone-processing.gif)
+*Watch the [full video demonstration here]([YOUR_UNLISTED_YOUTUBE_LINK](https://youtu.be/-bIXHAMKm60)).*
 
 ## Overview
 This project is a drone-assisted environmental monitoring system that automates surface water quality classification using real-time computer vision. It solves the inefficiency and high cost of traditional manual water sampling by deploying a UAV to instantly identify visible aquatic conditions such as Algae, Turbidity, or Solid Debris pollution. The system operates by capturing live aerial video feeds and utilizing an asynchronous, multithreaded edge-to-cloud architecture to run complex YOLOv26 instance segmentation without exceeding the drone's onboard hardware limits.
@@ -13,7 +13,7 @@ This project is a drone-assisted environmental monitoring system that automates 
 *  Optical Camera Module & Local Onboard Computing Unit
   
 ## Circuit & Physical Build
-![Circuit/Build Photo](assets/YOUR_BEST_PICTURE_NAME.jpg)
+![Circuit/Build Photo](assets/drone_frontview.png)
 *Virtual CATIA CAD model of the quadcopter chassis, engineered to support a 1.6kg payload while achieving a >2:1 thrust-to-weight ratio for stable optical tracking.*   
 
 ## Software & Libraries
