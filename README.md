@@ -1,6 +1,6 @@
 # Drone-Assisted Surface Water Quality Classification Using Image Processing
 
-![Project Demo](assets/drone-processing.gif)
+![Project Demo](drone_image_processing/assets/drone-processing.gif)
 *Watch the [full video demonstration here](https://youtu.be/-bIXHAMKm60).*
 
 ## Overview
@@ -13,7 +13,7 @@ This project is a drone-assisted environmental monitoring system that automates 
 *  Optical Camera Module & Local Onboard Computing Unit
   
 ## Circuit & Physical Build
-![Circuit/Build Photo](drone_image_processing/assets/drone-processing.gif)
+![Circuit/Build Photo](drone_image_processing/assets/drone_frontview.png)
 *Virtual CATIA CAD model of the quadcopter chassis, engineered to support a 1.6kg payload while achieving a >2:1 thrust-to-weight ratio for stable optical tracking.*   
 
 ## Software & Libraries
