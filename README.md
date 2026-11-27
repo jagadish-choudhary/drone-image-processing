@@ -4,7 +4,7 @@
 *Watch the [full video demonstration here](https://youtu.be/-bIXHAMKm60).*
 
 ## Overview
-This project is a drone-assisted environmental monitoring system that automates surface water quality classification using real-time computer vision. It solves the inefficiency and high cost of traditional manual water sampling by deploying a UAV to instantly identify visible aquatic conditions such as Algae, Turbidity, or Solid Debris pollution. The system operates by capturing live aerial video feeds and utilizing an asynchronous, multithreaded edge-to-cloud architecture to run complex YOLOv26 instance segmentation without exceeding the drone's onboard hardware limits.
+This project is a drone-assisted environmental monitoring system that automates surface water quality classification using real-time computer vision. It solves the inefficiency and high cost of traditional manual water sampling by deploying a UAV to instantly identify visible aquatic conditions such as Clean, Algae, Turbidity, or Solid Debris pollution. The system operates by capturing live aerial video feeds and utilizing an asynchronous, multithreaded edge-to-cloud architecture to run complex YOLOv26 instance segmentation without exceeding the drone's onboard hardware limits.
 
 ## Hardware Components (BOM)
 *  Quadcopter Frame & Propellers
